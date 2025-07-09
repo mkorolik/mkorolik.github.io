@@ -22,7 +22,7 @@ repository               : "mkorolik/mkorolik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_7382.jpg"
+  avatar           : "IMG_7382_cropped.jpg"
   name             : "Maria Korolik"
   pronouns         : # example: "she/her"  
   bio              : "✨ stellar astrophysicist ✨"
