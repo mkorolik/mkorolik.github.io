@@ -9,3 +9,4 @@ venue: 'submitted to Astrophysical Journal'
 paperurl: '/files/rr lyrae convection paper.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: ''
+---

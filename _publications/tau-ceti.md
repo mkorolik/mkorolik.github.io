@@ -9,3 +9,4 @@ venue: 'Astronomical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-3881/ace906/pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Korolik, M., Roettenbacher, R. M., Fischer, D. A., et al. 2023, AJ, 166, 123'
+---
