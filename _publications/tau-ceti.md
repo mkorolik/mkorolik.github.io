@@ -1,5 +1,5 @@
 ---
-title: 'Refining the Stellar Parameters of ${\ensuremath{\tau}}$ Ceti: a Pole-on Solar Analog'
+title: r'Refining the Stellar Parameters of ${\ensuremath{\tau}}$ Ceti: a Pole-on Solar Analog'
 collection: publications
 category: manuscripts
 permalink: /publication/tau-ceti
