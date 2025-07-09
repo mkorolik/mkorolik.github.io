@@ -22,12 +22,12 @@ repository               : "mkorolik/mkorolik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/IMG_6807.jpg"
+  avatar           : "files/IMG_6807.jpg"
   name             : "Maria Korolik"
   pronouns         : # example: "she/her"  
   bio              : "✨ stellar astrophysicist ✨"
-  location         : "New Haven, CT"
-  employer         : "Yale University"
+  location         : "Leuven, Belgium"
+  employer         : "KU Leuven"
   uri              : # URL
   email            : "maria.korolik@yale.edu" 
 
