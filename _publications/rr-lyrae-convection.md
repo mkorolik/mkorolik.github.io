@@ -7,6 +7,5 @@ category: manuscripts
 # date: 2025-08-01
 venue: 'Astrophysical Journal (submitted)'
 paperurl: '/files/rr lyrae convection paper.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: ''
+citation: ' '
 ---
