@@ -16,8 +16,7 @@ Education
 
 Research experience
 ======
-* Jan 2024 - May 2025: [Yale Astrophysics Machine Learning (YAML) Group][yaml_link]
-[yaml_link]: http://www.astro.yale.edu/bellinger/
+* Jan 2024 - May 2025: [Yale Astrophysics Machine Learning (YAML) Group](http://www.astro.yale.edu/bellinger/)
   * Department of Astronomy, Yale University
   * Advisor: Prof. Earl Bellinger
   * Created and analyzed MESA stellar models of RR Lyrae stars to examine how varying convective boundary mixing affects pulsation properties
@@ -28,8 +27,7 @@ Research experience
   * Determined stellar characteristics of star Tau Ceti and demonstrated the unlikelihood of previously reported planets in the star’s system
   * Analyzed stellar surfaces reconstructed from photometry data with a lightcurve inversion algorithm to determine characteristics of star spot evolution
 
-* Dec 2023 - May 2025: [Nanoprobe Group][nanoprobe_link]
-[nanoprobe_link]: https://www.eng.yale.edu/nanomechanics/
+* Dec 2023 - May 2025: [Nanoprobe Group](https://www.eng.yale.edu/nanomechanics/)
   * Department of Mechanical Engineering and Material Science, Yale University
   * Advisor: Dr. Amit Datye
   * Analyzed temperature-dependent properties of zirconium-based bulk metallic glasses using dynamic mechanical analysis
@@ -45,7 +43,7 @@ Work experience
   * Mechanical Engineering Summer Intern
   * •	Worked in the Space Science Instrumentation group to create CAD designs for space science instruments such as a charged particle detector
   
-
+  
 Awards
 ======
 * George Beckwith Prize (2025)
